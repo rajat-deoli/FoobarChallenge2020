@@ -13,6 +13,15 @@ Help the Commander assign these IDs by writing a function answer(n) which takes 
 
 
 
+### Test Cases
+Inputs: (int) n = 0 Output: (string) "23571"
+
+Inputs: (int) n = 3 Output: (string) "71113"
+
+Use verify [file] to test your solution and see how it does. When you are finished editing your code, use submit [file] to submit your answer.
+
+
+
 ## Language Use
 Python
 
